@@ -4,6 +4,11 @@ name: Hello World!
 on:
   push:
   workflow_dispatch:
+  
+permissions:
+  issues: write
+  pull-requests: write
+  content: write
 
 jobs:
   greet:
