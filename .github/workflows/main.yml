@@ -8,7 +8,7 @@ on:
 permissions:
   issues: write
   pull-requests: write
-  content: write
+  contents: write
 
 jobs:
   greet:
