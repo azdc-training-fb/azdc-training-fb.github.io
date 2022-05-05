@@ -19,7 +19,7 @@ But I have to admit, tasks lists are my favorite:
 - [x] This is a complete item
 - [ ] This is an incomplete item
 
-Don't forget to add images:
+Don't forget to add images 🤷‍♀️:
 
 ![wow](https://external-preview.redd.it/N_bB0Oszfuks9wLTax6viC4Hh9FzHgpMcpYiuUHoQQU.jpg?auto=webp&s=22d6a707521ffee7ea809ec405a10477ee7bd2b8)
 
